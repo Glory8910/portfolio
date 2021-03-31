@@ -1,0 +1,46 @@
+.boxes{
+    border:2px solid rgb(238, 238, 247);
+    padding:5px;
+    margin:10px;
+    width:180rem;
+
+  border-radius: 20px;
+
+
+    
+}
+.rowcont{
+    
+
+    justify-content: center;
+   margin:20px 20px;
+}
+body{
+    padding:10px
+}
+.btnn{
+    padding:15px;
+    color: white;
+   background-color:darkblue;
+
+}
+
+h1{
+    text-align: center;
+}
+.rowcont{
+    align-items: center;
+    text-align: center;
+  
+}
+p{
+    color:black;
+    font-size: larger;
+}
+h2{
+    
+    color:rgb(58, 3, 58);
+}
+.name{
+    font-size: small;
+}
