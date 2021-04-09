@@ -30,7 +30,7 @@ export default function Skills() {
                 <h1 className="skillHead">My Skills</h1><br/>
                 
               
-                <h3> Have hands on experice in the following stacks and who is in pursuit of exploring new technologies and stacks.</h3><br/>
+                <h3> Have hands on experience in the following stacks and who is in pursuit of exploring new technologies and stacks.</h3><br/>
              <br/>
                <div className="imgsize row">
                     <div className="col-sm-2 ice col-md-3 col-lg-3"> <img className="imgs" src={nhtml} />

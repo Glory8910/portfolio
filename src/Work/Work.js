@@ -12,10 +12,10 @@ export default function About(){
 
     
     <div className="col-md-6 col-sm-12 left">
-         <h1>Work Experice</h1><br/>
+         <h1>Work Experience</h1><br/>
          <h3>Design and Automation Engineer </h3>
          <h4>Starpac</h4>
- <h4>Woked as Design engineer, mainly worked in planning and development of schema, delgation of responsiblities and testing of functionalities of packaging machines</h4>
+ <h4>Woked as Design engineer, mainly worked in planning and development of schema, delegation of responsiblities and testing of functionalities of packaging machines</h4>
 
     </div>
  

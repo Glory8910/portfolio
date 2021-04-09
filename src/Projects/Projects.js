@@ -19,7 +19,7 @@ export default function Project() {
             stack: ["Nodejs", "React", "Mongodb"]
 
         }, {
-            title: "Fresdesk Clone",
+            title: "Freshdesk Clone",
             description: "Fresh desk clone using HTML,CSS and vanilla Java script to implement the ticket status and priority update, adding and updating contacts using freshdesk Api ",
             demoUrl: "https://freshdeskk.netlify.app/",
             frontEndUrl: "https://github.com/Glory8910/freshdeskclone",
