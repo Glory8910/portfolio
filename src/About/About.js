@@ -45,7 +45,7 @@ export default function About() {
 
         </Link ></button>
 
-                    <a target=" _blank"  href="https://drive.google.com/file/d/12gZ4sU6YKXAqfeUvxE_z44vvvejMkC_7/view">      <button className="btn btn-lg  buton" id="contact">Resume</button></a>
+                    <a target=" _blank"  href="https://drive.google.com/file/d/1yPqPrO6DrYJnWJWOShotJhRZdrnlmPNp/view?usp=drivesdk">      <button className="btn btn-lg  buton" id="contact">Resume</button></a>
 
                 </div>
             </div>
