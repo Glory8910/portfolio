@@ -13,7 +13,7 @@ export default function Education() {
             <div className="col-md-6 col-sm-12 right ">
 
 
-                <h1 className="edu">Education</h1><br />
+                {/* <h1 className="edu">Education</h1><br /> */}
                 <div className="educationlist">
 
                 <h3><strong>B.E </strong></h3>

@@ -27,7 +27,7 @@ export default function Skills() {
             <div className="col-md-6 col-sm-12 right">
 
 
-                <h1 className="skillHead">My Skills</h1><br/>
+                {/* <h1 className="skillHead">My Skills</h1><br/> */}
                 
               
                 <h3> Have hands on experience in the following stacks and who is in pursuit of exploring new technologies and stacks.</h3><br/>

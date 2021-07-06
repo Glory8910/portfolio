@@ -19,10 +19,18 @@ export default function Project() {
             stack: ["Nodejs", "React", "Mongodb"]
 
         }, {
-            title: "Freshdesk Clone",
-            description: "Fresh desk clone using HTML,CSS and vanilla Java script to implement the ticket status and priority update, adding and updating contacts using freshdesk Api ",
-            demoUrl: "https://freshdeskk.netlify.app/",
-            frontEndUrl: "https://github.com/Glory8910/freshdeskclone",
+            title: "NY Times",
+            description: "The News blog using Nytimes API to fetch our daily news based on various categories",
+            demoUrl: "https://nytimesnews.netlify.app/",
+            frontEndUrl: "https://github.com/Glory8910/nytimes-ui",
+            stack: ["HTML", "Java Script", "CSS"]
+
+        },
+        {
+            title: "Quiz App",
+            description: "The quiz app using opendb quiz API ,with score tracking.",
+            demoUrl: "	https://quizzerrr.netlify.app/",
+            frontEndUrl: "	https://github.com/Glory8910/quikquizz",
             stack: ["HTML", "Java Script", "CSS"]
 
         },
@@ -39,9 +47,9 @@ export default function Project() {
 
 
     return (
-        <div className="projectlist" id="Projects">
-            <h1>Projects</h1>
-            <div className="row rowcont">
+        <div className="projectlist p-3" id="Projects">
+            {/* <h1>Projects</h1> */}
+            <div className="row rowcont ">
                 {
                     data.map((ele) => {
 
