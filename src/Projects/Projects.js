@@ -1,6 +1,6 @@
 import React from "react"
 import "./Projectsstyle.css"
-// import "./comp/comp"
+
 import { fab, faHtml5, faCss3, faJs, faNodejs, faReact } from '@fortawesome/free-brands-svg-icons'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faCheckSquare, faDatabase, faCoffee } from '@fortawesome/free-solid-svg-icons'
